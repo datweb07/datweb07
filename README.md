@@ -8,7 +8,7 @@
   <strong>My name is Dat</strong>, and I am a first-year student majoring in Information Technology at the University of Economics Ho Chi Minh City.
 </p>
 
-
+<br>
 
 <h2 align="center">🌟 ᴀʙᴏᴜᴛ ᴍᴇ</h2>
 
@@ -19,7 +19,7 @@
 💡 Fun fact: I like Math more than programming!
 </p>
 
-
+<br>
 
 <h2 align="center">💻 ᴛᴇᴄʜɴᴏʟᴏɢɪᴇs ɪ ᴜsᴇ</h2>
 
@@ -33,10 +33,25 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" />
 </div>
 
+<br>
 
+<h2 align="center"> 📊 sᴛᴀᴛs</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=datweb07&show_icons=true&theme=radical" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=datweb07&layout=compact&theme=radical" alt="Top Languages" height="180" />
+</div>
+
+<br>
+
+<br>
+<h2 align="center"> 📈ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴ ɢʀᴀᴘʜ</h2>
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=datweb07&theme=dracula" />
+</div>
+
+<br>
 
 <h2 align="center">🌍 ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ</h2>
-
 <p align="center">
   <a href="https://www.linkedin.com/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -49,14 +64,3 @@
     <img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
-
-<h2 align="center"> 📊 sᴛᴀᴛs</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=datweb07&show_icons=true&theme=radical" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=datweb07&layout=compact&theme=radical" alt="Top Languages" height="180" />
-</div>
-
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut" height="180" />
-</div>
