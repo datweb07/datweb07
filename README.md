@@ -44,5 +44,8 @@
   <a href="https://github.com/datweb07" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
+   <a href="https://www.facebook.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-blue?logo=facebook" alt="Facebook" />
+  </a>
 </p>
 
