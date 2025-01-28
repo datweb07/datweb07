@@ -41,11 +41,12 @@
   <a href="https://www.linkedin.com/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/datweb07" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+ 
    <a href="https://www.facebook.com/truong.at.286632/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-blue?logo=facebook" alt="Facebook" />
+  </a>
+  <a href="mailto:dat82770@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
