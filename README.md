@@ -10,7 +10,7 @@
 
 
 
-<h2 align="center">🌟 About Me</h2>
+<h2 align="center">🌟 ᴀʙᴏᴜᴛ ᴍᴇ</h2>
 
 <p align="center">
 ✨ Creative and able to work independently<br>
@@ -21,7 +21,7 @@
 
 
 
-<h2 align="center">💻 I Code With</h2>
+<h2 align="center">💻 ᴛᴇᴄʜɴᴏʟᴏɢɪᴇs ɪ ᴜsᴇ</h2>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="C#" />
@@ -35,7 +35,7 @@
 
 
 
-<h2 align="center">🌍 Connect With Me</h2>
+<h2 align="center">🌍 ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/" target="_blank">
@@ -50,3 +50,13 @@
   </a>
 </p>
 
+<h2 align="center"> 📊 sᴛᴀᴛs</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=datweb07&show_icons=true&theme=radical" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=datweb07&layout=compact&theme=radical" alt="Top Languages" height="180" />
+</div>
+
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut" height="180" />
+</div>
