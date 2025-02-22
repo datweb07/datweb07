@@ -21,7 +21,7 @@
 
 <br>
 
-<h2 align="center">💻 THE ᴛᴇᴄʜɴᴏʟᴏɢɪᴇs ɪ ᴜsᴇ</h2>
+<h2 align="center">💻 ᴛᴇᴄʜɴᴏʟᴏɢɪᴇs ɪ ᴜsᴇ</h2>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="C#" />
