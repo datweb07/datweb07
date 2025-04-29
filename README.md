@@ -7,7 +7,7 @@
 <p align="center">
   <strong>My name is Dat</strong>, and I am a first-year student majoring in Information Technology at the University of Economics Ho Chi Minh City.
 </p>
-<img src="https://i.redd.it/sq8125jgrtve1.gif" width="80" />
+
 
 <br>
 
