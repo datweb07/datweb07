@@ -8,7 +8,9 @@
   <strong>My name is Dat</strong>, and I am a first-year student majoring in Information Technology at the University of Economics Ho Chi Minh City.
 </p>
 
-
+ <div align="center">
+        <img src="https://i.redd.it/sq8l25j9rtve1.gif" width="80" />
+    </div>
 <br>
 
 <h2 align="center">🌟 ᴀʙᴏᴜᴛ ᴍᴇ</h2>
