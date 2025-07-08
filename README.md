@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>My name is Dat</strong>, and I am a second-year student majoring in Information Technology at the University of Economics Ho Chi Minh City.
+  <strong>My name is Dat</strong>, and I am a second-year student majoring in IT at the University of Economics Ho Chi Minh City.
 </p>
 
  <div align="center">
