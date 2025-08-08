@@ -51,24 +51,37 @@
 
 <h2 align="center"> 📊 sᴛᴀᴛs</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=datweb07&show_icons=true&theme=radical" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=datweb07&show_icons=true&theme=radical" alt="GitHub Stats" height="180" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=datweb07&theme=radical&hide_border=false" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=datweb07&layout=compact&theme=radical" alt="Top Languages" height="180" />
+  
+</div>
+
+<br>
+<h2 align="center">🏆ɢɪᴛʜᴜʙ ᴛʀᴏᴘʜɪᴇs</h2>
+<div align="center">
+<img src="https://github-trophies.vercel.app/?username=datweb07&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
 </div>
 
 <br>
 
-<br>
+
 <h2 align="center"> 📈ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴ ɢʀᴀᴘʜ</h2>
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=datweb07&theme=dracula" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=datweb07&theme=github-compact" />
 </div>
+
+<br>
 
 <div align="center">
 <img src="https://ssr-contributions-svg.vercel.app/_/datweb07?chart=3dbar&weeks=30&format=svg" />
 </div>
 
+<br>
 
-  ![snake gif](https://github.com/datweb07/datweb07/blob/output/github-contribution-grid-snake.gif)
+<div align="center">
+<img src="https://github.com/datweb07/datweb07/blob/output/github-snake-dark.svg" />
+</div>
 
 <br>
 
