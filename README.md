@@ -63,18 +63,20 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=datweb07&theme=dracula" />
 </div>
 
+<div align="center">
+<img src="https://ssr-contributions-svg.vercel.app/_/datweb07?chart=3dbar&weeks=30&format=svg" />
+</div>
+
+
 <br>
 
 <h2 align="center">🌍 ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ</h2>
 <p align="center">
   <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" alt="LinkedIn" />
   </a>
  
    <a href="https://www.facebook.com/truong.at.286632/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-blue?logo=facebook" alt="Facebook" />
-  </a>
-  <a href="mailto:dat82770@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white" alt="Gmail" />
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/facebook.svg" alt="Facebook" />
   </a>
 </p>
