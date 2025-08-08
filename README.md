@@ -67,7 +67,9 @@
 <img src="https://ssr-contributions-svg.vercel.app/_/datweb07?chart=3dbar&weeks=30&format=svg" />
 </div>
 
-![snake gif](https://github.com/datweb07/datweb07/blob/output/github-contribution-grid-snake.gif)
+
+  ![snake gif](https://github.com/datweb07/datweb07/blob/output/github-contribution-grid-snake.gif)
+
 <br>
 
 <h2 align="center">🌍 ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ</h2>
