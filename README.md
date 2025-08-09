@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&center=true&width=435&lines=Hello+World!+I'm+Dat" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&center=true&width=435&lines=Hello+World!+I'm+Dat;IT+in+UEH+University" alt="Typing SVG" />
 </p>
 
  <div align="center">
@@ -79,7 +79,7 @@
 <br>
 
 <div align="center">
-<img src="https://ssr-contributions-svg.vercel.app/_/datweb07?chart=3dbar&weeks=30&format=svg" />
+<img src="https://ssr-contributions-svg.vercel.app/_/datweb07?chart=3dbar&weeks=30&theme=dark-green&flatten=1&animation=wave&format=svg" />
 </div>
 
 <br>
