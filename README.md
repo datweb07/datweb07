@@ -1,4 +1,3 @@
-
 # <img src="https://slackmojis.com/emojis/60881-meow_attention/download" width="30"/> ʜɪ ᴛʜᴇʀᴇ 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80">
@@ -58,7 +57,7 @@
 </div>
 
 <br>
-<h2 align="center">🏆ɢɪᴛʜᴜʙ ᴛʀᴏᴘʜɪᴇs</h2>
+<h2 align="center">🏆 ɢɪᴛʜᴜʙ ᴛʀᴏᴘʜɪᴇs</h2>
 <div align="center">
 <img src="https://github-trophies.vercel.app/?username=datweb07&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
 </div>
@@ -66,7 +65,7 @@
 <br>
 
 
-<h2 align="center"> 📈ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴ ɢʀᴀᴘʜ</h2>
+<h2 align="center"> 📈 ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴ ɢʀᴀᴘʜ</h2>
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=datweb07&theme=github-compact" />
 </div>
