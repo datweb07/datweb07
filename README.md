@@ -110,7 +110,7 @@
 
 <div align="center">
   <a href="https://github.com/datweb07?tab=repositories">
-    <img src="https://custom-icon-badges.demolab.com/badge/-Click%20for%20more%20projects-1F222E?style=for-the-badge&logoColor=white&logo=repo">
+    <img src="https://custom-icon-badges.demolab.com/badge/-more%20projects-1F222E?style=for-the-badge&logoColor=white&logo=repo">
   </a>
 </div>
 
