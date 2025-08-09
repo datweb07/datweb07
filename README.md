@@ -93,7 +93,7 @@
 <h2 align="center">🌍 ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ</h2>
 <p align="center">
   
-   <a href="https://github.com/datweb07" target="_blank">
+   <a href="https://github.com/datweb07" target="blank">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub" />
   </a>
   
