@@ -3,9 +3,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80">
 </p>
 
-<p align="center">
-  <strong>My name is Dat</strong>, and I am a second-year student majoring in IT at the University of Economics Ho Chi Minh City.
-</p>
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&width=435&lines=Hello+World%2C+My+name+is+Dat" alt="Typing SVG" />
+</h2>
 
  <div align="center">
         <img src="https://i.redd.it/sq8l25j9rtve1.gif" width="80" />
@@ -94,3 +94,4 @@
     <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/facebook.svg" alt="Facebook" />
   </a>
 </p>
+
