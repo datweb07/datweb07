@@ -92,13 +92,27 @@
 
 <h2 align="center">🌍 ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" alt="LinkedIn" />
+  
+   <a href="https://github.com/datweb07" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub" />
   </a>
- 
-   <a href="https://www.facebook.com/truong.at.286632/" target="_blank">
-    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/facebook.svg" alt="Facebook" />
+  
+  <a href="https://www.facebook.com/share/14GS7niEWrt/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"/>
   </a>
+  
+  <a href="https://www.facebook.com/share/14GS7niEWrt/">
+    <img src="https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white">
+  </a>
+  
+  <a href="https://www.facebook.com/share/14GS7niEWrt/">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff">
+  </a>
+
+  <a href="https://www.facebook.com/share/14GS7niEWrt/">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white">
+  </a>
+  
 </p>
 
 <br>
