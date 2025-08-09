@@ -3,9 +3,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80">
 </p>
 
-<h2 align="center">
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&width=435&lines=Hello+World%2C+My+name+is+Dat" alt="Typing SVG" />
-</h2>
+</p>
 
  <div align="center">
         <img src="https://i.redd.it/sq8l25j9rtve1.gif" width="80" />
@@ -102,19 +102,11 @@
 </p>
 
 <br>
-
-## 🏁 ғɪɴᴀʟ ᴡᴏʀᴅs
-<div align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="200">
-</div>
+<br>
 
 <p align="center">
-  <i>Thanks for scrolling this far! ❤️<br>
-  Want to connect or collaborate?<br>
-  Don't hesitate to reach out!</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&width=435&lines=Thanks+for+scrolling+this+far!+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
 </p>
-
-<br>
 
 <div align="center">
   <a href="https://github.com/datweb07?tab=repositories">
@@ -124,23 +116,6 @@
 
 <br>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=datweb07&label=PROFILE+VIEWS&style=for-the-badge&color=ff69b4">
-  <a href="https://github.com/datweb07?tab=followers">
-    <img src="https://custom-icon-badges.demolab.com/github/followers/datweb07?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/datweb07/datweb07">
-    <img src="https://github.com/datweb07/datweb07/workflows/README%20build/badge.svg">
-  </a>
-  <a href="https://github.com/datweb07/datweb07/actions">
-    <img src="https://img.shields.io/github/actions/workflow/status/datweb07/datweb07/pages.yml?label=GitHub%20Pages&logo=github">
-  </a>
-</p>
-
 <div align="center">
   <img src="https://media.giphy.com/media/xT5LMHxhOfscxPfIfm/giphy.gif" width="150">
-  <p><i>Happy Coding! 👨‍💻</i></p>
 </div>
