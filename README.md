@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&width=435&lines=Hello+World%2C+My+name+is+Dat" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&center=true&width=435&lines=Hello+World!+I'm+Dat" alt="Typing SVG" />
 </p>
 
  <div align="center">
@@ -119,12 +119,12 @@
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&width=435&lines=Thanks+for+scrolling+this+far!+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF6B8B&center=true&width=500&lines=Thanks+for+visiting!;Let's+collaborate+sometime+%E2%9D%A4%EF%B8%8F;Keep+coding+and+keep+learning!" alt="Typing SVG" />
 </p>
 
 <div align="center">
   <a href="https://github.com/datweb07?tab=repositories">
-    <img src="https://custom-icon-badges.demolab.com/badge/-more%20projects-1F222E?style=for-the-badge&logoColor=white&logo=repo">
+    <img src="https://custom-icon-badges.demolab.com/badge/-Explore%20My%20Projects-FF6B8B?style=for-the-badge&logoColor=white&logo=repo">
   </a>
 </div>
 
