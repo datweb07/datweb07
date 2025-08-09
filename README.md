@@ -64,6 +64,12 @@
 
 <br>
 
+<h2 align="center">🔝 ᴛᴏᴘ ᴄᴏɴᴛʀɪʙᴜᴛᴇᴅ ʀᴇᴘᴏ</h2>
+<div align="center">
+<img src="https://github-contributor-stats.vercel.app/api?username=datweb07&limit=5&theme=radical&combine_all_yearly_contributions=true" />
+</div>
+  
+<br>
 
 <h2 align="center"> 📈 ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴ ɢʀᴀᴘʜ</h2>
 <div align="center">
@@ -95,3 +101,46 @@
   </a>
 </p>
 
+<br>
+
+## 🏁 ғɪɴᴀʟ ᴡᴏʀᴅs
+<div align="center">
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="200">
+</div>
+
+<p align="center">
+  <i>Thanks for scrolling this far! ❤️<br>
+  Want to connect or collaborate?<br>
+  Don't hesitate to reach out!</i>
+</p>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/datweb07?tab=repositories">
+    <img src="https://custom-icon-badges.demolab.com/badge/-Click%20for%20more%20projects-1F222E?style=for-the-badge&logoColor=white&logo=repo">
+  </a>
+</div>
+
+<br>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=datweb07&label=PROFILE+VIEWS&style=for-the-badge&color=ff69b4">
+  <a href="https://github.com/datweb07?tab=followers">
+    <img src="https://custom-icon-badges.demolab.com/github/followers/datweb07?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/datweb07/datweb07">
+    <img src="https://github.com/datweb07/datweb07/workflows/README%20build/badge.svg">
+  </a>
+  <a href="https://github.com/datweb07/datweb07/actions">
+    <img src="https://img.shields.io/github/actions/workflow/status/datweb07/datweb07/pages.yml?label=GitHub%20Pages&logo=github">
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/xT5LMHxhOfscxPfIfm/giphy.gif" width="150">
+  <p><i>Happy Coding! 👨‍💻</i></p>
+</div>
