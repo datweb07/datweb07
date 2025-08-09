@@ -93,7 +93,7 @@
 <h2 align="center">🌍 ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ</h2>
 <p align="center">
   
-   <a href="https://github.com/datweb07" target="blank">
+   <a href="https://github.com/datweb07" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub" />
   </a>
   
@@ -101,16 +101,16 @@
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"/>
   </a>
   
-  <a href="https://www.facebook.com/share/14GS7niEWrt/">
-    <img src="https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white">
+  <a href="https://www.tiktok.com/@user39911030852496?is_from_webapp=1&sender_device=pc" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white" alt="Tiktok">
   </a>
   
-  <a href="https://www.facebook.com/share/14GS7niEWrt/">
-    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff">
+  <a href="https://www.linkedin.com/in/%C4%91%E1%BA%A1t-tr%C6%B0%C6%A1ng-14233729a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B7qPb05xPQZiZkNe8ApAGFg%3D%3D" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="Linkedin">
   </a>
 
-  <a href="https://www.facebook.com/share/14GS7niEWrt/">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white">
+  <a href="dat82770@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Linkedin">
   </a>
   
 </p>
