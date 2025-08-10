@@ -85,7 +85,7 @@
 <br>
 
 <div align="center">
-<img src="https://github.com/datweb07/datweb07/blob/output/github-snake-dark.svg" />
+<img src="https://github.com/datweb07/datweb07/blob/output/github-snake.svg" />
 </div>
 
 <br>
