@@ -2,7 +2,7 @@
 # <img src="https://slackmojis.com/emojis/60881-meow_attention/download" width="30"/> ʜɪ ᴛʜᴇʀᴇ 
 
 
-<p style="font-size: 50px; margin-leftt: 200px">
+<p style="font-size: 50; margin-leftt: 200px">
 ✨ Creative and able to work independently<br>
 📚 Currently learning support tools for web development and AI<br>
 🎯 Goals: Work on personal projects to apply and enhance my skills<br>
@@ -13,10 +13,6 @@
      style="float: left; margin-right: 10px; border-radius: 50%;"/>
 </p>
 
-
-<p align="right">
-  
-</p>
 
 
 
