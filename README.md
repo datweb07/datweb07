@@ -1,5 +1,9 @@
 # <img src="https://slackmojis.com/emojis/60881-meow_attention/download" width="30"/> ʜɪ ᴛʜᴇʀᴇ 
-<img src="https://github.com/datweb07/readme_profile_image/blob/main/GitHub%20Profile%20Mockup%20-%20datweb07.png">
+<div align="center">
+    <img src="https://github.com/datweb07/readme_profile_image/blob/main/datweb07.png" 
+         style="width:100%; height:auto;" />
+</div>
+
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80">
 </p>
