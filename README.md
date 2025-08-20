@@ -1,21 +1,4 @@
-![Srihari Kapu](https://github.com/sriharikapu/sriharikapu/blob/master/CO.png?raw=true)
 # <img src="https://slackmojis.com/emojis/60881-meow_attention/download" width="30"/> ʜɪ ᴛʜᴇʀᴇ 
-
-
-<p style="font-size: 50; margin-leftt: 200px">
-✨ Creative and able to work independently<br>
-📚 Currently learning support tools for web development and AI<br>
-🎯 Goals: Work on personal projects to apply and enhance my skills<br>
-💡 Fun fact: I like Math more than programming!
-
-  <img src="https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-     width="80"
-     style="float: left; margin-right: 10px; border-radius: 50%;"/>
-</p>
-
-
-
-
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80">
