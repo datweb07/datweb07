@@ -1,7 +1,7 @@
 # <img src="https://slackmojis.com/emojis/60881-meow_attention/download" width="30"/> ʜɪ ᴛʜᴇʀᴇ 
 <div align="center">
     <img src="https://github.com/datweb07/readme_profile_image/blob/main/datweb07.png" 
-         style="width:100%; height:auto;" />
+         style="width:auto; height:100%;" />
 </div>
 
 <p align="center">
