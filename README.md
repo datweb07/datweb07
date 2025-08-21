@@ -1,3 +1,9 @@
+<div align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=&fontSize=0&animation=twinkling" 
+    width="100%"/>
+</div>
+
 # <img src="https://slackmojis.com/emojis/60881-meow_attention/download" width="30"/> ʜɪ ᴛʜᴇʀᴇ 
 
 <p align="center">
@@ -134,3 +140,10 @@
 <div align="center">
   <img src="https://media.giphy.com/media/xT5LMHxhOfscxPfIfm/giphy.gif" width="150">
 </div>
+
+<div align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=&fontSize=0&animation=twinkling" 
+    width="100%"/>
+</div>
+
