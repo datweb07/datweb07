@@ -53,9 +53,9 @@
 <h2 align="center"> 📊 sᴛᴀᴛs</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=datweb07&show_icons=true&theme=radical" alt="GitHub Stats" height="180" /> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=datweb07&theme=radical&hide_border=false" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=datweb07&layout=compact&theme=radical" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=datweb07&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="180" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=datweb07&theme=radical&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=datweb07&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180" />
   
 </div>
 
