@@ -57,12 +57,13 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=datweb07&theme=dark&hide_border=true" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=datweb07&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=datweb07" alt="" height="180" />
-  <div align="center">
-  <a href="https://github.com/datweb07?tab=App">
+  
+<div align="center">
+  <a href="https://github.com/datweb07/App">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=datweb07&repo=App&show_owner=true&theme=dark">
   </a>
 </div>
- 
+
 </div>
 
 <br>
