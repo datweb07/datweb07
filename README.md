@@ -75,11 +75,17 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=datweb07&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </div>
 
+
 <div align="center">
   <a href="https://github.com/datweb07/App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=datweb07&repo=App&show_owner=true&theme=dark">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=datweb07&repo=App&show_owner=true&theme=dark" style="margin: 5px;">
+  </a>
+  <a href="https://github.com/datweb07/DSA_final_Project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=datweb07&repo=DSA_final_Project&show_owner=true&theme=dark" style="margin: 5px;">
   </a>
 </div>
+  
+
   
 <br>
 
