@@ -53,11 +53,11 @@
 <h2 align="center"> 📊 sᴛᴀᴛs</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=datweb07&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="180" /> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=datweb07&theme=radical&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=datweb07&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=datweb07" alt="Top Languages" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=datweb07&repo=App&show_owner=true&theme=radical" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=datweb07&show_icons=true&theme=ambient_gradient&hide_border=true" alt="GitHub Stats" height="180" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=datweb07&theme=dark&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=datweb07&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=datweb07" alt="" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=datweb07&repo=App&show_owner=true&theme=dark" alt="" height="180" />
  
 </div>
 
@@ -66,7 +66,7 @@
 <h2 align="center">🏆 ɢɪᴛʜᴜʙ ᴛʀᴏᴘʜɪᴇs</h2>
 
 <div align="center">
-  <img src="https://github-trophies.vercel.app/?username=datweb07&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
+  <img src="https://github-trophies.vercel.app/?username=datweb07&theme=onestar&no-frame=false&no-bg=false&margin-w=4" />
 </div>
 
 <br>
