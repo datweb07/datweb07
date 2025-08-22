@@ -54,7 +54,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=datweb07&show_icons=true&theme=ambient_gradient&hide_border=true" alt="GitHub Stats" height="180" /> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=datweb07&theme=dark&hide_border=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=datweb07&theme=tokyonight&hide_border=true" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=datweb07&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=datweb07" alt="" height="180" />
 </div>
@@ -64,7 +64,7 @@
 <h2 align="center">🏆 ɢɪᴛʜᴜʙ ᴛʀᴏᴘʜɪᴇs</h2>
 
 <div align="center">
-  <img src="https://github-trophies.vercel.app/?username=datweb07&theme=onestar&no-frame=false&no-bg=false&margin-w=4" />
+  <img src="https://github-trophies.vercel.app/?username=datweb07&theme=onestar&no-frame=true&no-bg=true&margin-w=4" />
 </div>
 
 <br>
@@ -75,8 +75,12 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=datweb07&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </div>
 
-<br>
-
+  <br>
+  
+<details align="center">
+  <summary><b>🤔 More Repos</b></summary>
+  <br/>
+  
 <div align="center">
   <a href="https://github.com/datweb07/App">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=datweb07&repo=App&show_owner=true&theme=dark" style="margin: 5px;">
@@ -86,9 +90,10 @@
   </a>
 </div>
   
+</details>
 
-  
-<br>
+<br/>
+
 
 <h2 align="center"> 📈 ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴ ɢʀᴀᴘʜ</h2>
 
@@ -112,30 +117,29 @@
 
 <h2 align="center">🌍 ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ</h2>
 
-<p align="center">
+<div align="center">
   
-   <a href="https://github.com/datweb07" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/datweb07">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   
-  <a href="https://www.facebook.com/share/14GS7niEWrt/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"/>
+  <a href="https://www.linkedin.com/in/%C4%91%E1%BA%A1t-tr%C6%B0%C6%A1ng-14233729a">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   
-  <a href="https://www.tiktok.com/@user39911030852496?is_from_webapp=1&sender_device=pc" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white" alt="Tiktok">
+  <a href="https://www.facebook.com/share/14GS7niEWrt/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   
-  <a href="https://www.linkedin.com/in/%C4%91%E1%BA%A1t-tr%C6%B0%C6%A1ng-14233729a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B7qPb05xPQZiZkNe8ApAGFg%3D%3D" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="Linkedin">
-  </a>
-
-  <a href="dat82770@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Linkedin">
+  <a href="mailto:dat82770@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   
-</p>
-
+  <a href="https://www.tiktok.com/@user39911030852496">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+  </a>
+  
+</div>
 <br>
 <br>
 
@@ -150,10 +154,21 @@
 </div>
 
 <br>
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=datweb07&color=blueviolet&style=flat-square&label=Profile+Views" />
+  <img src="https://img.shields.io/github/followers/datweb07?label=Followers&style=flat-square&color=blue" />
+</div>
+
+<br>
+<br>
 
 <div align="center">
   <img src="https://media.giphy.com/media/xT5LMHxhOfscxPfIfm/giphy.gif" width="150">
 </div>
+
+<br>
 
 <div align="center">
   <img 
