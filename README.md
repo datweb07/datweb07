@@ -78,7 +78,7 @@
   <br>
   
 <details align="center">
-  <summary><b>🤔 More Repos</b></summary>
+  <summary><b>🤔 ᴍᴏʀᴇ ʀᴇᴘᴏs</b></summary>
   <br/>
   
 <div align="center">
