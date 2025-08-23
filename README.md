@@ -64,7 +64,7 @@
 <h2 align="center">🏆 ɢɪᴛʜᴜʙ ᴛʀᴏᴘʜɪᴇs</h2>
 
 <div align="center">
-  <img src="https://github-trophies.vercel.app/?username=datweb07&theme=onestar&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-trophies.vercel.app/?username=datweb07&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
 </div>
 
 <br>
