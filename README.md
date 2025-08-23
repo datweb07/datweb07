@@ -1,7 +1,5 @@
 <div align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=&fontSize=0&animation=twinkling" 
-    width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=150&section=header&text=Welcome%20to%20my%20Profile&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%"/>
 </div>
 
 # <img src="https://slackmojis.com/emojis/60881-meow_attention/download" width="30"/>  ʜɪ ᴛʜᴇʀᴇ 
@@ -14,31 +12,38 @@
 </p>
 
 <div align="center">
-        <img src="https://i.redd.it/sq8l25j9rtve1.gif" width="80" />
+  <img src="https://i.redd.it/sq8l25j9rtve1.gif" width="80" />
 </div>
 
 <br>
 
-
-
 <h2 align="center">🌟 ᴀʙᴏᴜᴛ ᴍᴇ</h2>
 
-<p align="center">
-✨ Creative and able to work independently<br>
-📚 Currently learning support tools for web development and AI<br>
-🎯 Goals: Work on personal projects to apply and enhance my skills<br>
-💡 Fun fact: I like Math more than programming!
-</p>
+<div align="left">
+  <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="200px">
+  <br><br>
+  ✨ Creative and able to work independently<br>
+  📚 Currently learning support tools for web development and AI<br>
+  🎯 Goals: Work on personal projects to apply and enhance my skills<br>
+  💡 Fun fact: I like Math more than programming! 
+</div>
 
+<br clear="both">
 <br>
+
 
 <h2 align="center">💻 ᴛᴇᴄʜɴᴏʟᴏɢɪᴇs ɪ ʟᴇᴀʀɴ</h2>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/entityframeworkcore/entityframeworkcore-original.svg" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="50" alt="SqlServer" />
+  <img width="170" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me Animation"/> 
+</div>
+
+<br>
+
+<div align="center">
+  
+### **Frontend Development**
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" />
@@ -47,6 +52,34 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg" height="50" alt="Blazor"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="50" alt="Tailwindcss"/>
 </div>
+
+<br>
+
+### **Backend Development** 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/entityframeworkcore/entityframeworkcore-original.svg" height="50" />
+</div>
+
+<br>
+
+### **Database & Tools**
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="50" alt="SqlServer" />
+</div>
+
+<br>
+
+### **Currently Learning**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,typescript,docker,azure" alt="Learning Technologies" />
+</div>
+
+</div>
+
+<br clear="both">
+<br>
 
 <br>
 
@@ -157,8 +190,7 @@
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=datweb07&color=blueviolet&style=flat-square&label=Profile+Views" />
-  <img src="https://img.shields.io/github/followers/datweb07?label=Followers&style=flat-square&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=datweb07&color=ff6b9d&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/> <img src="https://img.shields.io/github/followers/datweb07?label=FOLLOWERS&style=for-the-badge&color=ff6b9d&labelColor=1a1a2e" alt="Followers"/> <img src="https://img.shields.io/github/stars/datweb07?label=TOTAL+STARS&style=for-the-badge&color=ff6b9d&labelColor=1a1a2e" alt="Stars"/> </div>
 </div>
 
 <br>
@@ -169,6 +201,13 @@
 </div>
 
 <br>
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
+</div>
+
+<br>
 
 <div align="center">
   <img 
@@ -176,3 +215,12 @@
     width="100%"/>
 </div>
 
+<br>
+
+<div align="center"> 
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"> 
+</div> 
+
+<div align="center">
+  <sub">Made with 💖 and lots of ☕ by Dat Truong</sub>
+</div>
