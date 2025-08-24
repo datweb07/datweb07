@@ -120,7 +120,7 @@
   
 <div align="center">
   <a href="https://github.com/datweb07/SOLID">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=datweb07&repo=SOLID&show_owner=true&theme=dark" style="margin: 5px;" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=datweb07&repo=SOLID&show_owner=true&theme=dark" style="margin: 5px;">
   </a>
   
   <a href="https://github.com/datweb07/OOP_final_Project">
