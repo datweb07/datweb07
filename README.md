@@ -71,16 +71,9 @@
 
 <br>
 
-### **Currently Learning**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,typescript,docker,azure" alt="Learning Technologies" />
-</div>
-
 </div>
 
 <br clear="both">
-<br>
-
 <br>
 
 <h2 align="center"> 📊 sᴛᴀᴛs</h2>
@@ -126,11 +119,8 @@
   <br/>
   
 <div align="center">
-  <a href="https://github.com/datweb07/App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=datweb07&repo=App&show_owner=true&theme=dark" style="margin: 5px;">
-  </a>
-  <a href="https://github.com/datweb07/DSA_final_Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=datweb07&repo=DSA_final_Project&show_owner=true&theme=dark" style="margin: 5px;">
+  <a href="https://github.com/datweb07/SOLID">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=datweb07&repo=SOLID&show_owner=true&theme=dark" style="margin: 5px;">
   </a>
 </div>
   
