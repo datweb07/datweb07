@@ -148,12 +148,6 @@
 <br>
 
 <div align="center">
-  <img src="https://ssr-contributions-svg.vercel.app/_/datweb07?chart=3dbar&weeks=30&theme=dark-green&flatten=1&animation=wave&format=svg" />
-</div>
-
-<br>
-
-<div align="center">
   <img src="https://github.com/datweb07/datweb07/blob/output/github-snake.svg" />
 </div>
 
