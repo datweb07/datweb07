@@ -2,17 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=150&section=header&text=Welcome%20to%20my%20Profile&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%"/>
 </div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&center=true&width=435&lines=Hello+World!+I'm+Dat;IT+in+UEH+University" alt="Typing SVG" />
-</p>
-
-<br>
-
-<h2 align="center">🌟 ᴀʙᴏᴜᴛ ᴍᴇ</h2>
-
+### ᴀʙᴏᴜᴛ ᴍᴇ
 <div align="left">
-  <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px">
-  <br><br>
+  <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="180px">
   
   - **Passionate Developer** with a focus on creating innovative solutions
   - **IT Student** at UEH University, Vietnam
