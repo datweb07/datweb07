@@ -2,18 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=150&section=header&text=Welcome%20to%20my%20Profile&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%"/>
 </div>
 
-# <img src="https://slackmojis.com/emojis/60881-meow_attention/download" width="30"/>  ʜɪ ᴛʜᴇʀᴇ 
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80">
-</p>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&center=true&width=435&lines=Hello+World!+I'm+Dat;IT+in+UEH+University" alt="Typing SVG" />
 </p>
-
-<div align="center">
-  <img src="https://i.redd.it/sq8l25j9rtve1.gif" width="80" />
-</div>
 
 <br>
 
@@ -155,9 +146,6 @@
 <br>
 <br>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/xT5LMHxhOfscxPfIfm/giphy.gif" width="150">
-</div>
 
 <br>
 <br>
