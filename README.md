@@ -20,57 +20,17 @@
 <h2 align="center">🌟 ᴀʙᴏᴜᴛ ᴍᴇ</h2>
 
 <div align="left">
-  <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="200px">
+  <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px">
   <br><br>
-  ✨ Creative and able to work independently<br>
-  📚 Currently learning support tools for web development and AI<br>
-  🎯 Goals: Work on personal projects to apply and enhance my skills<br>
-  💡 Fun fact: I like Math more than programming! 
-</div>
-
-<br clear="both">
-<br>
-
-
-<h2 align="center">💻 ᴛᴇᴄʜɴᴏʟᴏɢɪᴇs ɪ ʟᴇᴀʀɴ</h2>
-
-<div align="center">
-  <img width="170" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me Animation"/> 
-</div>
-
-<br>
-
-<div align="center">
   
-### **Frontend Development**
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg" height="50" alt="Blazor"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="50" alt="Tailwindcss"/>
-</div>
-
-<br>
-
-### **Backend Development** 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/entityframeworkcore/entityframeworkcore-original.svg" height="50" />
-</div>
-
-<br>
-
-### **Database & Tools**
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="50" alt="SqlServer" />
-</div>
-
-<br>
-
+  - **Passionate Developer** with a focus on creating innovative solutions
+  - **IT Student** at UEH University, Vietnam
+  - **Full-Stack Enthusiast** specializing in .NET and React ecosystems
+  - **Continuous Learner** exploring AI, web development, and modern frameworks
+  - **Goal-Oriented** with a drive to build impactful projects
+  - **Fun Fact:** I find mathematical problem-solving as exciting as coding!
+  
+  
 </div>
 
 <br clear="both">
@@ -219,7 +179,3 @@
 <div align="center"> 
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"> 
 </div> 
-
-<div align="center">
-  <sub">Made with 💖 and lots of ☕ by Dat Truong</sub>
-</div>
