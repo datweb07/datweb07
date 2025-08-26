@@ -23,7 +23,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=datweb07&show_icons=true&theme=ambient_gradient&hide_border=true" alt="GitHub Stats" height="180" /> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=datweb07&theme=tokyonight&hide_border=true" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=datweb07&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="180" />
 </div>
 
