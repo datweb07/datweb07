@@ -32,10 +32,11 @@
   <br/>
   
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=datweb07&theme=dark" alt="" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=datweb07&theme=dark" alt="wakatime stats" width="500" />
 </div>
   
 </details>
+
 
 
 <br>
