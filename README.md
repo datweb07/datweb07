@@ -37,42 +37,6 @@
   
 </details>
 
-
-
-<br>
-
-<h2 align="center">🏆 ɢɪᴛʜᴜʙ ᴛʀᴏᴘʜɪᴇs</h2>
-
-<div align="center">
-  <img src="https://github-trophies.vercel.app/?username=datweb07&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
-</div>
-
-<br>
-
-<h2 align="center">🔝 ᴛᴏᴘ ᴄᴏɴᴛʀɪʙᴜᴛᴇᴅ ʀᴇᴘᴏ</h2>
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=datweb07&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</div>
-
-  <br>
-  
-<details align="center">
-  <summary><b>🤔 ᴍᴏʀᴇ ʀᴇᴘᴏs</b></summary>
-  <br/>
-  
-<div align="center">
-  <a href="https://github.com/datweb07/SOLID">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=datweb07&repo=SOLID&show_owner=true&theme=dark" style="margin: 5px;">
-  </a>
-  
-  <a href="https://github.com/datweb07/OOP_final_Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=datweb07&repo=OOP_final_Project&show_owner=true&theme=dark" style="margin: 5px;">
-  </a>
-</div>
-  
-</details>
-
 <br/>
 
 
