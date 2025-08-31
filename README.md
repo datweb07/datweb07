@@ -23,22 +23,15 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=datweb07&show_icons=true&theme=ambient_gradient&hide_border=true" alt="GitHub Stats" height="180" /> 
+</div>
+<br>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=datweb07&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="180" />
 </div>
 
 <br>
-<details align="center">
-  <summary><b>⏰ ᴡᴀᴋᴀᴛɪᴍᴇ</b></summary>
-  <br/>
-  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=datweb07&theme=dark" alt="wakatime stats" width="500" />
-</div>
-  
-</details>
-
-<br/>
-
+<br>
 
 <h2 align="center"> 📈 ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴ ɢʀᴀᴘʜ</h2>
 
