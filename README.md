@@ -27,7 +27,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=datweb07&layout=compact&theme=dark&hide_border=true&langs_count=10" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=datweb07&layout=compact&theme=dark&hide_border=true&langs_count=20" alt="Top Languages" height="300" />
 </div>
 
 <br>
