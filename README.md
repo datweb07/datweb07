@@ -22,7 +22,7 @@
 <h2 align="center"> 📊 sᴛᴀᴛs</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=datweb07&show_icons=true&theme=ambient_gradient&hide_border=true" alt="GitHub Stats" height="180" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=datweb07&show_icons=true&theme=ambient_gradient&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats" height="300" /> 
 </div>
 <br>
 
