@@ -1,14 +1,16 @@
 
 # Hi, my name is Dat
-A student is studying information technology at UEH University
+A student is studying Information Technology at UEH University
 
 
 <details>
 <summary>
   More stuff about me
 </summary>
+
+## Quick overview
   
-<h2 align="center"> sᴛᴀᴛs</h2>
+### sᴛᴀᴛs
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=datweb07&show_icons=true&theme=ambient_gradient&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats" height="300" /> 
