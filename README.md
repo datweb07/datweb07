@@ -1,3 +1,13 @@
+
+# Hi, my name is Dat
+A student is studying information technology at UEH University
+
+
+<details>
+<summary>
+  More stuff about me
+</summary>
+  
 <h2 align="center"> sᴛᴀᴛs</h2>
 
 <div align="center">
