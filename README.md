@@ -23,13 +23,6 @@ A student is studying Information Technology at UEH University
 
 <br><br>
 
-<h2 align="center"> ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴ ɢʀᴀᴘʜ</h2>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=datweb07&theme=github-compact" />
-</div>
-
-<br>
 
 <div align="center">
   <img src="https://github.com/datweb07/datweb07/blob/output/github-snake.svg" />
@@ -40,12 +33,6 @@ A student is studying Information Technology at UEH University
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF6B8B&center=true&width=500&lines=Thanks+for+visiting!;Let's+collaborate+sometime+%E2%9D%A4%EF%B8%8F;Keep+coding+and+keep+learning!" alt="Typing SVG" />
 </p>
-
-<div align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=&fontSize=0&animation=twinkling" 
-    width="100%"/>
-</div>
 
 <br>
 
