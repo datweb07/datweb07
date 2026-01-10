@@ -14,12 +14,12 @@ A student is studying Information Technology at [UEH University](https://www.ueh
 ### sᴛᴀᴛs
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=datweb07&show_icons=true&theme=ambient_gradient&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats" height="300" /> 
+  <img src="https://github-readme-stats-drab-beta-98.vercel.app/api?username=datweb07&show_icons=true&theme=ambient_gradient&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats" height="300" /> 
 </div>
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=datweb07&layout=compact&theme=dark&hide_border=true&langs_count=20" alt="Top Languages" height="300" />
+  <img src="https://github-readme-stats-drab-beta-98.vercel.app/api/top-langs/?username=datweb07&layout=compact&theme=dark&hide_border=true&langs_count=20" alt="Top Languages" height="300" />
 </div>
 
 <br><br>
