@@ -2,6 +2,11 @@
 # Hi, my name is Dat ([Quick overview](https://profile-summary-for-github.com/user/datweb07))
 A student is studying Information Technology at [UEH University](https://www.ueh.edu.vn/)
 
+<p>
+  <img src="https://github.com/datweb07/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only">
+  <img src="https://github.com/datweb07/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only">
+</p>
+
 <div>
   <img src="https://raw.githubusercontent.com/datweb07/github-stats/master/generated/overview.svg#gh-light-mode-only" alt="Top Languages" height="300" />
 </div>
