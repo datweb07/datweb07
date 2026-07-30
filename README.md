@@ -1,6 +1,6 @@
 
 # Hi, my name is Dat ([Quick overview](https://profile-summary-for-github.com/user/datweb07))
-A student is studying Information Technology at [UEH University](https://www.ueh.edu.vn/), and I'm working at [ISCM - Institute of Smart City and Management](https://iscm.ueh.edu.vn/vi)
+A student is studying Information Technology at [UEH University](https://www.ueh.edu.vn/)
 
 <p>
   <img src="https://github.com/datweb07/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only">
